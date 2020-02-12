@@ -1,0 +1,7 @@
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\bin\Debug\Euler.exe.config
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\obj\Debug\Euler.csprojAssemblyReference.cache
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\obj\Debug\Euler.csproj.CoreCompileInputs.cache
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\g16t5351\Documents\Tutoring stuff\Software design and practices\Review prac\Prac 1\Euler\Euler\obj\Debug\Euler.pdb
